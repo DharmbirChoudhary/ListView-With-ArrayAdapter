@@ -3,7 +3,7 @@ In this example you can get idea about ListView with ArrayAdapter.
 In this example we used in-built layout with in-built textview. The layout is android.R.layout.simple_list_item_1
 and textview is android.R.id.text1.
 
-Kindly go through for video
+Kindly click below for video
 
 [ListView With ArrayAdapter](https://www.youtube.com/watch?v=knLoziZ0XWw)
 
