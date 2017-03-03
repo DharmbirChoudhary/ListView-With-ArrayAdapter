@@ -4,8 +4,9 @@ In this example we used in-built layout with in-built textview. The layout is an
 and textview is android.R.id.text1.
 
 Kindly go through for video
-https://www.youtube.com/watch?v=knLoziZ0XWw
+
+[ListView With ArrayAdapter]https://www.youtube.com/watch?v=knLoziZ0XWw
 
 Please don't forgot to subscribe youtube channel.
 
-[Channel](https://www.youtube.com/channel/UCA5HRmlkT7bqbO56EIlT0UQ)
+https://www.youtube.com/channel/UCA5HRmlkT7bqbO56EIlT0UQ
