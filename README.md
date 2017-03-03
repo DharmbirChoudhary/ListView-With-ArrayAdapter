@@ -10,3 +10,6 @@ Kindly click below for video
 Please don't forgot to subscribe youtube channel.
 
 https://www.youtube.com/channel/UCA5HRmlkT7bqbO56EIlT0UQ
+
+
+![ScreenShot](https://raw.github.com/DharmbirChoudhary/ListView-With-ArrayAdapter/master/arrayadapter.gif)
